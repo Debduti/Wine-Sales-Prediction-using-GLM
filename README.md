@@ -14,3 +14,8 @@ scatter plots and histograms
 **d**. We will build four different models- **Poisson Regression Model, Negative Binomial Model, Zero Inflated Poisson Model and Zero Inflated Negative Binomial Model**.     
 We will compare their performances based on metrics such as Root Mean Squared Error, 
 **Mean Absolute Error, AIC and BIC** and select a final best model   
+
+# Dataset
+
+The dataset Wine.csv contains 12795 records and 14 predictors (excluding INDEX). Our response variable is TARGET. The dataset is obtained from a Kaggle competition for prediction of wine sales based on its attributes.
+
