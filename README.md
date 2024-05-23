@@ -1,6 +1,6 @@
 # Objective
 In this project, our aim is to analyze the Wine dataset and build a model to predict the number
-of wine cases sold, based on its features, most of which are chemical properties. 
+of wine cases sold, based on its features, most of which are chemical properties.\ 
 This dataset comes from a Kaggle competition for wine sales prediction and the dataset can be found on
 Github. 
 We will cover the following topics in this project: 
